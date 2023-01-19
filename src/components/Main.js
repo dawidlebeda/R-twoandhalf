@@ -96,7 +96,7 @@ class Main extends React.Component {
             <h2>kondom</h2>
           </div>
           <div class="card" onClick={this.playUkol}>
-            <h2>ukol</h2>
+            <h2>úkol</h2>
           </div>
           <div class="card" onClick={this.playCigaretka}>
             <h2>cigaretka</h2>
